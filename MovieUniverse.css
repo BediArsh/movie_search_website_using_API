@@ -24,4 +24,25 @@ img{
     background-color:  #171717;
 }
 
-/* main container Styling Ends */
+.wrapper .container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+/* logo starts */
+.logo{
+    padding: 1rem 0;
+    border-bottom: 1px solid #292929;
+}
+.logo p{
+    font-size: 2rem;
+    color: #fff;
+    font-weight: bold;
+}
+.logo p span{
+    color: #00FFFF;
+}
+/* logo ends */
+
+
