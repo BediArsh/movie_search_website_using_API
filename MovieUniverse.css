@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+/* Basic Universal Styling starts*/
+*{
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+            box-sizing: border-box;
+}
+body{
+    font-family: 'Inter', sans-serif;
+}
+a{
+    text-decoration: none;
+}
+img{
+    width: 100%;
+    display: block;
+}
+/* Basic Universal Styling Ends */
+
+/* main container styling starts */
+.wrapper{
+    min-height: 100vh;
+    background-color:  #171717;
+}
+
+/* main container Styling Ends */
