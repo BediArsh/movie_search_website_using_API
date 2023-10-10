@@ -48,7 +48,7 @@ function displayMovieList(movies){
 }
 
 
-unction loadMovieDetails(){
+function loadMovieDetails(){
     const searchListMovies = searchList.querySelectorAll('.search-list-item');
     searchListMovies.forEach(movie => {
         movie.addEventListener('click', async () => {
